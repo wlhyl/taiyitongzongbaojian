@@ -1,10 +1,24 @@
-{
+	{
 	"title":"太乙统宗宝鉴",
 	"author": "元 晓山老人",
 	"pluginsConfig":{
     		"theme-default": {
         		"showLevel": true
-    		}
-	}
+    		},
+		"fontSettings":{
+			"size": 4
+		}
+	},
+ "pdf": {
+    "pageNumbers": true,
+    "fontSize": 18,
+    "paperSize": "a4",
+    "margin": {
+      "right": 30,
+      "left": 30,
+      "top": 30,
+      "bottom": 50
+    }
+  }
 }
 
